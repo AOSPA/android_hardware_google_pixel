@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bf40becc_de527919",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2022-07-07T07:31:40Z",
+      "side": 1,
+      "message": "doesn\u0027t hurt sure but we don\u0027t ship userdebug builds like LOS so won\u0027t have any impact for us",
+      "revId": "7c14398f2d5d7c895f01a9e5fcf57d6e56d28639",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
