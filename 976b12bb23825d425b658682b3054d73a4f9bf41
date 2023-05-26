@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98bbc0f6_162b677d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000548
+      },
+      "writtenOn": "2023-05-26T21:44:27Z",
+      "side": 1,
+      "message": "Going forward we will be utilizing gated bp modules to achieve a similar effect,",
+      "revId": "976b12bb23825d425b658682b3054d73a4f9bf41",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
